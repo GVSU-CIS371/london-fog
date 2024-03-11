@@ -1,46 +1,5 @@
 # London Fog Vue 3 + TypeScript Example
 
-This repository contains the demonstration code for building a component London Fog using Vue3 and TypeScript. It a vue 3 version based on the original version released by Divya Sasidharan. Here is the video for her original tutoral for this example: https://www.youtube.com/watch?v=O5xF_JHb5oc
-
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-### NodeJS Environment Setup
-
-Choose one of the following options to set up your NodeJS environment,
-
-- Docker Container: Create a Node.js development environment with Docker. For detailed instructions, please refer to the class slides.
-
-- Direct Install: Alternatively, you can install NodeJS directly from the [NodeJS official website](https://nodejs.org/).
-
-### Installing
-
-Clone the repository to your local machine:
-
-```bash
-git clone git@github.com:GVSU-CIS371/london-fog.git
-cd london-fog
-```
-
-Install the required packages:
-
-```bash
-npm install
-```
-
-### Running the Development Server
-
-Start the local development server:
-
-```bash
-npm run dev
-```
-
-
-
-# London Fog Vue 3 + TypeScript Example
-
 Welcome to the London Fog Vue 3 + TypeScript example repository! This project showcases how to build a "London Fog" tea component using Vue 3 and TypeScript. It's inspired by and based on the original tutorial by Divya Sasidharan. You can watch her insightful tutorial [here](https://www.youtube.com/watch?v=O5xF_JHb5oc).
 
 ## Getting Started
